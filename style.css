@@ -1,0 +1,39 @@
+.main {
+    font-family:Aleo; 
+    font-size:18px;
+    background-color: #242424;
+    color: rgb(235, 235, 235);
+    margin-top: 150px;
+}
+
+.top {
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.top a {
+    font-family: 'Dune Rise';
+    font-size: 22px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 10px 10px 10px;
+    text-decoration: none;
+}
+
+.top a:hover {
+    color: rgb(255, 116, 74);
+}
+
+.title {
+    font-family: 'Dune Rise';
+    text-align: center;
+}
+
+.title2 {
+    font-family: 'Dune Rise';
+}
