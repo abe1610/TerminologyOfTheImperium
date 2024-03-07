@@ -1,4 +1,9 @@
-@font-face { font-family: 'Dune Rise'; src: url('Dune_Rise.ttf'); } 
+@font-face {
+font-family: "Dune Rise";
+src: url("https://raw.githubusercontent.com/abe1610/terminologyoftheimperium/main/Dune_Rise.ttf");
+src: url("https://raw.githubusercontent.com/abe1610/terminologyoftheimperium/main/dune_rise-webfont.woff") format("woff"),
+url("https://raw.githubusercontent.com/abe1610/terminologyoftheimperium/main/Dune_Rise.otf") format("opentype"),
+}
 
 .main {
     font-family:Aleo; 
